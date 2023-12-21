@@ -8,13 +8,14 @@ composes a coarse graph alignment mechanism with a novel spectral regularizer to
 ### Citation
 If this code is useful for your research, please refer to this paper for more details:
 
-> @inproceedings{xiao2023spa,  
->  &nbsp; &nbsp;  title={SPA: A Graph Spectral Alignment Perspective for Domain Adaptation},  
->  &nbsp; &nbsp;  author={Xiao, Zhiqing and Wang, Haobo and Jin, Ying and Feng, Lei and Chen, Gang and Huang, Fei and Zhao, Junbo},
->  &nbsp; &nbsp;  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},  
->  &nbsp; &nbsp;  year={2023}  
-> }
-> 
+```
+@inproceedings{xiao2023spa,
+  title={SPA: A Graph Spectral Alignment Perspective for Domain Adaptation},  
+  author={Xiao, Zhiqing and Wang, Haobo and Jin, Ying and Feng, Lei and Chen, Gang and Huang, Fei and Zhao, Junbo},
+  journal={NeurIPS},
+  year={2023}
+}
+```
 
 
 ### Training
